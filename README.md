@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shashanklko
+- 👋 Hi, I’m ShaShank 
 - 👀 I’m interested in software development and problem-solving.
 - 🌱 I’m currently learning C++ and data structures & algorithms (DSA).
 - 💞️ I’m looking to collaborate on coding projects and open-source contributions.

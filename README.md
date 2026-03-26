@@ -95,7 +95,7 @@
 
 <div align="center">
   <p>Always open to discussing system architecture or modern software engineering practices!</p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=your_email@example.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shashankkm2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/shashank20003">

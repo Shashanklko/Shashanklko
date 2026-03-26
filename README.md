@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://github.com/7lovescode/7lovescode/blob/main/Images/coding.gif?raw=true" width="90%" alt="Coding Animation">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" alt="Coding Animation">
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashanklko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F0FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shashanklko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F0FF&hide_rank=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashanklko&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=shashanklko&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />

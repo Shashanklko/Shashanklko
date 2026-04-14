@@ -68,7 +68,7 @@
   <tr>
     </td>
 <td width="50%" align="center">
-  <h3>⚖️ <a href="#">LawEZY Platform</a></h3>
+  <h3>⚖️ <a href="https://github.com/Shashanklko/LawEZY">LawEZY Platform</a></h3>
   <p><i>Legal & Financial Services Ecosystem</i></p>
   <div align="left">
     <ul>
@@ -78,7 +78,7 @@
   </div>
 </td>
     <td width="50%" align="center">
-      <h3>🤖 <a href="https://github.com/shashanklko/Resumehub.store">Resumehub.store</a></h3>
+      <h3>🤖 <a href="https://Resumehub.store">Resumehub.store</a></h3>
       <p><i>Intelligent Document Generation</i></p>
       <div align="left">
         <ul>

@@ -108,10 +108,8 @@
 </div>
 
 <div align="center">
-<br/>
-  <a href="https://github.com/shashanklko">
-    <img src="https://profile-counter.glitch.me/shashanklko/count.svg" alt="Visitor Count" />
-  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=shashanklko&label=Visitors&color=gold&style=for-the-badge" alt="Visitor Count" />
 </div>
 
 <div align="center">

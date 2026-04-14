@@ -66,6 +66,17 @@
 
 <table width="100%" border="0">
   <tr>
+    </td>
+<td width="50%" align="center">
+  <h3>⚖️ <a href="#">LawEZY Platform</a></h3>
+  <p><i>Legal & Financial Services Ecosystem</i></p>
+  <div align="left">
+    <ul>
+      <li><b>Tech:</b> React, Spring Boot, Node.js, MySQL, Socket.io</li>
+      <li><b>Scope:</b> Built a full-scale platform connecting clients with verified legal and financial professionals. Implemented real-time messaging, token-based transactions, and a structured appointment lifecycle for seamless consultation and monetization.</li>
+    </ul>
+  </div>
+</td>
     <td width="50%" align="center">
       <h3>🤖 <a href="https://github.com/shashanklko/Resumehub.store">Resumehub.store</a></h3>
       <p><i>Intelligent Document Generation</i></p>
@@ -73,16 +84,6 @@
         <ul>
           <li><b>Tech:</b> Python, API Architecture, Render</li>
           <li><b>Scope:</b> Architected an intelligent bot for dynamic resume generation. Deployed utilizing CI/CD pipelines.</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" align="center">
-      <h3>🌐 <a href="#">Enterprise Platforms</a></h3>
-      <p><i>Advanced Frontend Ecosystems</i></p>
-      <div align="left">
-        <ul>
-          <li><b>Tech:</b> React, Node.js, Advanced SEO logic</li>
-          <li><b>Scope:</b> Built modular frontend setups. Overhauled semantic routing to scale SEO visibility and optimize load speeds.</li>
         </ul>
       </div>
     </td>

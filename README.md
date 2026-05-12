@@ -35,14 +35,16 @@
 <div align="center">
   <p><b>Languages & Core</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,rust,html,css&perline=10" />
   </a>
   <br>
+
   <p><b>Frameworks & Libraries</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,fastapi&perline=10" />
   </a>
   <br>
+
   <p><b>Tools, DBs & Cloud</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,postman,mongodb,postgres,linux&perline=10" />
@@ -55,11 +57,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shashanklko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F0FF&hide_rank=true" alt="GitHub Stats" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashanklko&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+  
   <br/><br/>
+  
   <img src="https://github-profile-trophy.vercel.app/?username=shashanklko&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
-
 <br/>
 
 <h2 align="center">⚡ Recent Engineering Highlights</h2>

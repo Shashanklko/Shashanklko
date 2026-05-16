@@ -15,7 +15,7 @@
   <tr>
     <td width="60%">
       <h2>👨‍💻 About Me</h2>
-      <p>I am a results-driven Software Engineer passionate about crafting full-stack ecosystems and intelligent automation workflows. Whether it's designing dynamic user interfaces, structuring robust Python APIs, or optimizing cloud deployments, I focus on delivering seamless performance.</p>
+      <p>Software Engineer passionate about crafting full-stack ecosystems and intelligent automation workflows. Whether it's designing dynamic user interfaces, structuring robust Python APIs, or optimizing cloud deployments, I focus on delivering seamless performance.</p>
       <ul>
         <li>🚀 <b>Currently:</b> Engineering highly scalable backend architectures and dynamic React frontends.</li>
         <li>🧠 <b>Focus areas:</b> Full-Stack Development, Cloud Integration, AI Automation.</li>

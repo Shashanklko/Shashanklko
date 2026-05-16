@@ -19,7 +19,7 @@
       <ul>
         <li>🚀 <b>Currently:</b> Engineering highly scalable backend architectures and dynamic React frontends.</li>
         <li>🧠 <b>Focus areas:</b> Full-Stack Development, Cloud Integration, AI Automation.</li>
-        <li>💬 <b>Ask me about:</b> React, Node.js, Python architecture, or system deployments.</li>
+        <li>💬 <b>Ask me about:</b> React, Node.js,Spring Boot , Hibernate, little bit Python architecture, or system deployments.</li>
       </ul>
     </td>
     <td width="40%" align="center">

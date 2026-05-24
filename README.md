@@ -4,8 +4,10 @@
 </div>
 
 <br/>
+
 <div align="center">
-  <p>Always open to discussing system architecture or modern software engineering practices!</p>
+  <h3>🚀 Full-Stack Engineer | System Architecture Enthusiast | AI & Cloud Innovator</h3>
+  <p><i>Always open to discussing system architecture and modern software engineering practices!</i></p>
   
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shashankkm2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -17,25 +19,33 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://shashank-portfolio-black.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-808080?style=for-the-badge&logo=vercel&logoColor=black" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-808080?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
 </div>
+
 <br/>
+
 ---
+
+## 👨‍💻 System Diagnostic: About Me
 
 <table align="center" border="0" style="border: none !important; width: 100%;">
   <tr>
     <td width="60%" valign="top" style="border: none;">
-      <h2>👨‍💻 System Diagnostic: About Me</h2>
-      <p>Software Engineer passionate about crafting full-stack ecosystems and intelligent automation workflows. Whether it's designing dynamic user interfaces, structuring robust Python APIs, or optimizing cloud deployments, I focus on delivering seamless performance.</p>
+      <p>
+        Software Engineer passionate about crafting full-stack ecosystems and intelligent automation workflows. 
+        Whether it's designing dynamic user interfaces, structuring robust Python APIs, optimizing cloud infrastructure, 
+        or deploying AI-driven solutions—I thrive at the intersection of innovation and reliability.
+      </p>
       <ul>
-        <li>🚀 <b>Currently:</b> Engineering highly scalable backend architectures and dynamic React frontends.</li>
-        <li>🧠 <b>Focus areas:</b> Full-Stack Development, Cloud Integration, AI Automation.</li>
-        <li>💬 <b>Ask me about:</b> React, Node.js, Spring Boot, Hibernate, Python architecture, or system deployments.</li>
+        <li>🚀 <b>Currently:</b> Engineering highly scalable backend architectures and dynamic React frontends</li>
+        <li>🧠 <b>Focus Areas:</b> Full-Stack Development, Cloud Integration, AI/ML Automation, System Design</li>
+        <li>💬 <b>Ask Me About:</b> React, Node.js, Spring Boot, Hibernate, Python Architecture, Docker, Cloud Deployments</li>
+        <li>🎯 <b>Goal:</b> Building systems that scale, perform, and adapt</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" alt="Coding Animation">
+    <td width="40%" align="center" valign="middle" style="border: none; padding: 0 20px;">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding Animation">
     </td>
   </tr>
 </table>
@@ -44,52 +54,71 @@
 
 ---
 
+## 🛠️ Technical Arsenal
+
 <div align="center">
-  <!-- Interactive Technical Arsenal SVG -->
   <img src="./assets/skills.svg" width="100%" alt="Technical Arsenal Dashboard" />
 </div>
 
-<br/><br/>
+**Core Competencies:**
+- **Frontend:** React, TypeScript, Tailwind CSS, Responsive Design
+- **Backend:** Node.js, Python, Spring Boot, REST APIs, GraphQL
+- **Databases:** PostgreSQL, MongoDB, MySQL, Redis
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD Pipelines
+- **Tools & Frameworks:** Git, Hibernate, Webpack, Next.js, Express.js
+
+<br/>
 
 ---
 
-<div align="center">
-  <h2>⚡ Recent Engineering Highlights (Click to Launch)</h2>
-</div>
+## ⚡ Featured Projects
 
-<!-- Interactive Clickable Project Grid using HTML Tables -->
 <table align="center" border="0" style="border: none !important; width: 100%;">
   <tr>
-    <td width="75%" align="center" style="border: none; padding: 2px;">
+    <td width="48%" align="center" style="border: none; padding: 10px;">
       <a href="https://github.com/Shashanklko/LawEZY" target="_blank" title="Launch LawEZY Platform">
         <img src="./assets/lawezy.svg" width="100%" alt="LawEZY Platform Console" />
       </a>
+      <p><b>LawEZY</b> - Legal Tech Platform</p>
     </td>
-    <td width="75%" align="center" style="border: none; padding: 2px;">
+    <td width="48%" align="center" style="border: none; padding: 10px;">
       <a href="https://Resumehub.store" target="_blank" title="Launch Resumehub.store">
         <img src="./assets/resumehub.svg" width="100%" alt="Resumehub.store Console" />
       </a>
+      <p><b>ResumeHub</b> - Professional Resume Builder</p>
     </td>
   </tr>
 </table>
 
-<br/><br/>
+<br/>
 
 ---
 
+## 📊 GitHub Statistics
+
 <div align="center">
-  <h2>📫 Connect to Terminal</h2>
-  <!-- Interactive Retro Terminal Footer SVG -->
-  <img src="./assets/footer.svg" width="100%" alt="Terminal Footer Connection" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashanklko&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashanklko&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
 
+---
 
+## 📫 Connect With Me
 
 <div align="center">
-  <br/>
-  <code style="font-family: 'Fira Code', monospace; color: #6272a4;">
+  <img src="./assets/footer.svg" width="100%" alt="Terminal Footer Connection" />
+</div>
+
+<p align="center">
+  💡 Have an interesting project or idea? Let's collaborate and build something amazing together!
+</p>
+
+<br/>
+
+<div align="center">
+  <code style="font-family: 'Fira Code', monospace; color: #6272a4; display: block; padding: 15px;">
     ╔═══════════════════════════════════════════════════════╗<br/>
     ║   ❯ © 2026 Shashank Kumar — Architecting Tomorrow     ║<br/>
     ╚═══════════════════════════════════════════════════════╝

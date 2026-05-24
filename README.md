@@ -60,12 +60,12 @@
 <!-- Interactive Clickable Project Grid using HTML Tables -->
 <table align="center" border="0" style="border: none !important; width: 100%;">
   <tr>
-    <td width="50%" align="center" style="border: none; padding: 5px;">
+    <td width="75%" align="center" style="border: none; padding: 2px;">
       <a href="https://github.com/Shashanklko/LawEZY" target="_blank" title="Launch LawEZY Platform">
         <img src="./assets/lawezy.svg" width="100%" alt="LawEZY Platform Console" />
       </a>
     </td>
-    <td width="50%" align="center" style="border: none; padding: 5px;">
+    <td width="750%" align="center" style="border: none; padding: 2px;">
       <a href="https://Resumehub.store" target="_blank" title="Launch Resumehub.store">
         <img src="./assets/resumehub.svg" width="100%" alt="Resumehub.store Console" />
       </a>

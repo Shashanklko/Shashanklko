@@ -65,7 +65,7 @@
         <img src="./assets/lawezy.svg" width="100%" alt="LawEZY Platform Console" />
       </a>
     </td>
-    <td width="750%" align="center" style="border: none; padding: 2px;">
+    <td width="75%" align="center" style="border: none; padding: 2px;">
       <a href="https://Resumehub.store" target="_blank" title="Launch Resumehub.store">
         <img src="./assets/resumehub.svg" width="100%" alt="Resumehub.store Console" />
       </a>

@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="100%" height="100%">
+  <defs>
+    <!-- Green glow filter -->
+    <filter id="glow-green" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#50fa7b" flood-opacity="0.6"/>
+    </filter>
+    <filter id="glow-cyan" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#00f0ff" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+    @keyframes scanline {
+      0% { transform: translateY(-180px); }
+      100% { transform: translateY(180px); }
+    }
+    @keyframes console1 {
+      0% { opacity: 0; }
+      5% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    @keyframes console2 {
+      0%, 25% { opacity: 0; }
+      30% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+    @keyframes console3 {
+      0%, 55% { opacity: 0; }
+      60% { opacity: 1; }
+      100% { opacity: 1; }
+    }
+
+    .terminal-base {
+      fill: #090d16;
+      stroke: #50fa7b;
+      stroke-width: 1.5;
+      stroke-opacity: 0.6;
+    }
+    .crt-scanlines {
+      fill: none;
+      stroke: #50fa7b;
+      stroke-width: 1;
+      stroke-opacity: 0.05;
+    }
+    .scanline-bar {
+      fill: #50fa7b;
+      fill-opacity: 0.03;
+      animation: scanline 8s infinite linear;
+    }
+    .term-text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 13px;
+      fill: #a9b1d6;
+    }
+    .prompt {
+      fill: #50fa7b;
+      font-weight: bold;
+    }
+    .command {
+      fill: #f1fa8c;
+    }
+    .cursor {
+      fill: #50fa7b;
+      animation: blink 0.8s infinite;
+      filter: url(#glow-green);
+    }
+    .output-green {
+      fill: #50fa7b;
+      font-weight: bold;
+      filter: url(#glow-green);
+    }
+    .label-magenta {
+      fill: #ff79c6;
+      font-weight: bold;
+    }
+    .value-cyan {
+      fill: #00f0ff;
+      filter: url(#glow-cyan);
+    }
+    .connection-line {
+      stroke: #50fa7b;
+      stroke-width: 0.5;
+      stroke-opacity: 0.2;
+    }
+    
+    .anim-c1 { animation: console1 10s infinite; }
+    .anim-c2 { animation: console2 10s infinite; }
+    .anim-c3 { animation: console3 10s infinite; }
+  </style>
+
+  <!-- Terminal Panel -->
+  <g>
+    <!-- Background Frame -->
+    <rect x="5" y="5" width="790" height="170" rx="10" ry="10" class="terminal-base"/>
+    
+    <!-- Retro CRT Scanline Bar -->
+    <rect x="6" y="6" width="788" height="168" rx="9" ry="9" fill="none" class="scanline-bar"/>
+    <path d="M 6 20 L 794 20 M 6 40 L 794 40 M 6 60 L 794 60 M 6 80 L 794 80 M 6 100 L 794 100 M 6 120 L 794 120 M 6 140 L 794 140 M 6 160 L 794 160" class="crt-scanlines"/>
+
+    <!-- Left/Right borders -->
+    <line x1="25" y1="20" x2="25" y2="160" class="connection-line" />
+
+    <!-- Terminal Content -->
+    <g transform="translate(45, 35)">
+      
+      <!-- Prompt & command connection -->
+      <g class="anim-c1">
+        <text x="0" y="0" class="term-text prompt">❯</text>
+        <text x="18" y="0" class="term-text command">shashank --connect</text>
+      </g>
+
+      <!-- Establishing Connection Logs -->
+      <g class="anim-c2" transform="translate(0, 22)">
+        <text x="0" y="0" class="term-text">Establishing contact with system networks...</text>
+        <text x="350" y="0" class="term-text output-green">[SUCCESS_DONE]</text>
+        
+        <!-- Divider dotted line -->
+        <line x1="0" y1="12" x2="710" y2="12" stroke="#50fa7b" stroke-width="0.5" stroke-opacity="0.2" stroke-dasharray="3 3"/>
+      </g>
+
+      <!-- Connection Details List -->
+      <g class="anim-c3" transform="translate(0, 52)">
+        <!-- Grid Item 1: Email -->
+        <text x="0" y="10" class="term-text label-magenta">Email</text>
+        <text x="100" y="10" class="term-text">:</text>
+        <text x="120" y="10" class="term-text value-cyan">shashankkm2003@gmail.com</text>
+
+        <!-- Grid Item 2: LinkedIn -->
+        <text x="0" y="32" class="term-text label-magenta">LinkedIn</text>
+        <text x="100" y="32" class="term-text">:</text>
+        <text x="120" y="32" class="term-text value-cyan">linkedin.com/in/shashank20003</text>
+
+        <!-- Grid Item 3: GitHub -->
+        <text x="0" y="54" class="term-text label-magenta">GitHub</text>
+        <text x="100" y="54" class="term-text">:</text>
+        <text x="120" y="54" class="term-text value-cyan">github.com/shashanklko</text>
+
+        <!-- Grid Item 4: Portfolio -->
+        <text x="0" y="76" class="term-text label-magenta">Portfolio</text>
+        <text x="100" y="76" class="term-text">:</text>
+        <text x="120" y="76" class="term-text value-cyan">shashank-portfolio-black.vercel.app</text>
+
+        <!-- Dynamic Typing Cursor on last item -->
+        <rect x="420" y="64" width="7" height="13" class="cursor"/>
+
+        <!-- Cyber Motto text (Aligned right) -->
+        <text x="710" y="42" text-anchor="end" font-family="'Fira Code', monospace" font-size="11" fill="#6272a4" font-style="italic">
+          "Building tomorrow's scalable architectures today."
+        </text>
+      </g>
+
+    </g>
+  </g>
+</svg>

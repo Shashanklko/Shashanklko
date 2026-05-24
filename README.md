@@ -1,28 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Shashank%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
-
-  <i>"Architecting scalable logic, writing clean code, building intuitive experiences."</i>
-  
-  <br><br>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Architecting+Scalable+Solutions;Full-Stack+Web+Development;Automating+Workflows+%26+Bots)](https://git.io/typing-svg)
-
+  <!-- Interactive Terminal Header SVG -->
+  <img src="./assets/header.svg" width="100%" alt="Shashank Kumar - Terminal Profile Header" />
 </div>
+
+<br/>
 
 ---
 
-<table align="center" border="0" style="border: none !important;">
+<table align="center" border="0" style="border: none !important; width: 100%;">
   <tr>
-    <td width="60%">
-      <h2>👨‍💻 About Me</h2>
+    <td width="60%" valign="top" style="border: none;">
+      <h2>👨‍💻 System Diagnostic: About Me</h2>
       <p>Software Engineer passionate about crafting full-stack ecosystems and intelligent automation workflows. Whether it's designing dynamic user interfaces, structuring robust Python APIs, or optimizing cloud deployments, I focus on delivering seamless performance.</p>
       <ul>
         <li>🚀 <b>Currently:</b> Engineering highly scalable backend architectures and dynamic React frontends.</li>
         <li>🧠 <b>Focus areas:</b> Full-Stack Development, Cloud Integration, AI Automation.</li>
-        <li>💬 <b>Ask me about:</b> React, Node.js,Spring Boot , Hibernate, little bit Python architecture, or system deployments.</li>
+        <li>💬 <b>Ask me about:</b> React, Node.js, Spring Boot, Hibernate, Python architecture, or system deployments.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
+    <td width="40%" align="center" valign="middle" style="border: none;">
       <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" alt="Coding Animation">
     </td>
   </tr>
@@ -30,92 +26,75 @@
 
 <br/>
 
-<h2 align="center">🧠 Technical Arsenal</h2>
+---
 
 <div align="center">
-  <p><b>Languages & Core</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,rust,html,css&perline=10" />
-  </a>
-  <br>
-
-  <p><b>Frameworks & Libraries</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,fastapi&perline=10" />
-  </a>
-  <br>
-
-  <p><b>Tools, DBs & Cloud</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,mongodb,postgres,linux&perline=10" />
-  </a>
+  <!-- Interactive Technical Arsenal SVG -->
+  <img src="./assets/skills.svg" width="100%" alt="Technical Arsenal Dashboard" />
 </div>
 
-<br/>
+<br/><br/>
 
-<h2 align="center">📈 GitHub Analytics</h2>
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashanklko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F0FF&hide_rank=true" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashanklko&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
-  
-  <br/><br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=shashanklko&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <h2>⚡ Recent Engineering Highlights (Click to Launch)</h2>
 </div>
-<br/>
 
-<h2 align="center">⚡ Recent Engineering Highlights</h2>
-
-<table width="100%" border="0">
+<!-- Interactive Clickable Project Grid using HTML Tables -->
+<table align="center" border="0" style="border: none !important; width: 100%;">
   <tr>
+    <td width="50%" align="center" style="border: none; padding: 5px;">
+      <a href="https://github.com/Shashanklko/LawEZY" target="_blank" title="Launch LawEZY Platform">
+        <img src="./assets/lawezy.svg" width="100%" alt="LawEZY Platform Console" />
+      </a>
     </td>
-<td width="50%" align="center">
-  <h3>⚖️ <a href="https://github.com/Shashanklko/LawEZY">LawEZY Platform</a></h3>
-  <p><i>Legal & Financial Services Ecosystem</i></p>
-  <div align="left">
-    <ul>
-      <li><b>Tech:</b> React, Spring Boot, Node.js, MySQL, Socket.io</li>
-      <li><b>Scope:</b> Built a full-scale platform connecting clients with verified legal and financial professionals. Implemented real-time messaging, token-based transactions, and a structured appointment lifecycle for seamless consultation and monetization.</li>
-    </ul>
-  </div>
-</td>
-    <td width="50%" align="center">
-      <h3>🤖 <a href="https://Resumehub.store">Resumehub.store</a></h3>
-      <p><i>Intelligent Document Generation</i></p>
-      <div align="left">
-        <ul>
-          <li><b>Tech:</b> Python, API Architecture, Render</li>
-          <li><b>Scope:</b> Architected an intelligent bot for dynamic resume generation. Deployed utilizing CI/CD pipelines.</li>
-        </ul>
-      </div>
+    <td width="50%" align="center" style="border: none; padding: 5px;">
+      <a href="https://Resumehub.store" target="_blank" title="Launch Resumehub.store">
+        <img src="./assets/resumehub.svg" width="100%" alt="Resumehub.store Console" />
+      </a>
     </td>
   </tr>
 </table>
 
-<br>
+<br/><br/>
 
-<h2 align="center">📫 Let's Connect</h2>
+---
+
+<div align="center">
+  <h2>📫 Connect to Terminal</h2>
+  <!-- Interactive Retro Terminal Footer SVG -->
+  <img src="./assets/footer.svg" width="100%" alt="Terminal Footer Connection" />
+</div>
+
+<br/>
 
 <div align="center">
   <p>Always open to discussing system architecture or modern software engineering practices!</p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shashankkm2003@gmail.com">
+  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shashankkm2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/shashank20003">
+  <a href="https://linkedin.com/in/shashank20003" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/shashanklko">
+  <a href="https://github.com/shashanklko" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://shashank-portfolio-black.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Website" />
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=shashanklko&label=Profile+Views&color=00f0ff&style=for-the-badge" alt="Visitor Count" />
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=shashanklko&label=Visitors&color=gold&style=for-the-badge" alt="Visitor Count" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
+  <code style="font-family: 'Fira Code', monospace; color: #6272a4;">
+    ╔═══════════════════════════════════════════════════════╗<br/>
+    ║   ❯ © 2026 Shashank Kumar — Architecting Tomorrow     ║<br/>
+    ╚═══════════════════════════════════════════════════════╝
+  </code>
 </div>

@@ -1,195 +1,121 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Shashank%20Kumar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ███████╗██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ███╗  ██╗ ║
-║   ██╔════╝██║  ██║██╔══██╗██╔════╝██║  ██║██╔══██╗████╗ ██║ ║
-║   ███████╗███████║███████║███████╗███████║███████║██╔██╗██║ ║
-║   ╚════██║██╔══██║██╔══██║╚════██║██╔══██║██╔══██║██║╚████║ ║
-║   ███████║██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚███║ ║
-║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚══╝ ║
-║                                                               ║
-║          Software Engineer  |  Full-Stack Developer           ║
-║        "Architecting scalable logic, clean code,              ║
-║                  intuitive experiences."                      ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+  <i>"Architecting scalable logic, writing clean code, building intuitive experiences."</i>
+  
+  <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=❯+whoami+%3A%3A+Software+Engineer;❯+stack+%3A%3A+React+%7C+Spring+Boot+%7C+Node.js;❯+focus+%3A%3A+Full-Stack+%2B+AI+Automation;❯+status+%3A%3A+Open+to+opportunities)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Architecting+Scalable+Solutions;Full-Stack+Web+Development;Automating+Workflows+%26+Bots)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-```json
-{
-  "name": "Shashank Kumar",
-  "role": "Software Engineer",
-  "focus": ["Full-Stack Development", "Cloud Integration", "AI Automation"],
-  "stack": {
-    "frontend": ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    "backend":  ["Spring Boot", "Node.js", "Express", "FastAPI", "Hibernate"],
-    "database": ["MySQL", "PostgreSQL", "MongoDB"],
-    "devops":   ["Docker", "Linux", "Git", "CI/CD", "Render"]
-  },
-  "currently": "Engineering scalable backend architectures & dynamic React frontends",
-  "askMeAbout": ["React", "Spring Boot", "Node.js", "System Architecture"],
-  "availability": true
-}
-```
-
----
-
-## 🧠 Technical Arsenal
-
-<div align="center">
-
-**Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-**Tools, DBs & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-## 📊 Language Proficiency
-
-```
-JavaScript  ████████████████████████░░  88%
-React       ██████████████████████░░░░  84%
-Java        █████████████████████░░░░░  82%
-Python      ███████████████████░░░░░░░  75%
-TypeScript  ██████████████████░░░░░░░░  70%
-C++         ██████████████░░░░░░░░░░░░  55%
-Rust        █████████░░░░░░░░░░░░░░░░░  15%
-```
-
----
-
-## ⚡ Engineering Highlights
-
-<table width="100%">
+<table align="center" border="0" style="border: none !important;">
   <tr>
-    <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/Shashanklko/LawEZY">LawEZY Platform</a></h3>
-      <p><i>Legal & Financial Services Ecosystem</i></p>
+    <td width="60%">
+      <h2>👨‍💻 About Me</h2>
+      <p>Software Engineer passionate about crafting full-stack ecosystems and intelligent automation workflows. Whether it's designing dynamic user interfaces, structuring robust Python APIs, or optimizing cloud deployments, I focus on delivering seamless performance.</p>
       <ul>
-        <li><b>Stack:</b> React · Spring Boot · Node.js · MySQL · Socket.io</li>
-        <li>Full-scale platform connecting clients with verified legal and financial professionals</li>
-        <li>Real-time messaging, token-based transactions, structured appointment lifecycle</li>
+        <li>🚀 <b>Currently:</b> Engineering highly scalable backend architectures and dynamic React frontends.</li>
+        <li>🧠 <b>Focus areas:</b> Full-Stack Development, Cloud Integration, AI Automation.</li>
+        <li>💬 <b>Ask me about:</b> React, Node.js,Spring Boot , Hibernate, little bit Python architecture, or system deployments.</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://Resumehub.store">ResumeHub.store</a></h3>
-      <p><i>Intelligent Document Generation</i></p>
-      <ul>
-        <li><b>Stack:</b> Python · FastAPI · Render · CI/CD</li>
-        <li>Intelligent bot for dynamic resume generation with automated formatting</li>
-        <li>Deployed with CI/CD pipelines for zero-downtime releases</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
-      </p>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" alt="Coding Animation">
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## 📈 GitHub Analytics
+<h2 align="center">🧠 Technical Arsenal</h2>
 
 <div align="center">
+  <p><b>Languages & Core</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,rust,html,css&perline=10" />
+  </a>
+  <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shashanklko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F0FF&title_color=00F0FF&icon_color=00F0FF" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashanklko&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff&sideNums=00F0FF" alt="GitHub Streak" width="48%" />
+  <p><b>Frameworks & Libraries</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,fastapi&perline=10" />
+  </a>
+  <br>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashanklko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&langs_count=8" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=shashanklko&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-
+  <p><b>Tools, DBs & Cloud</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,mongodb,postgres,linux&perline=10" />
+  </a>
 </div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 📧 Email | [shashankkm2003@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=shashankkm2003@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/shashank20003](https://linkedin.com/in/shashank20003) |
-| 🐙 GitHub | [github.com/shashanklko](https://github.com/shashanklko) |
-| 🌐 Website | [Shashank Kumar](https://shashank-portfolio-black.vercel.app) |
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=shashankkm2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashank20003)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashanklko)
-[![Website](https://img.shields.io/badge/Website-00F0FF?style=for-the-badge&logo=vercel&logoColor=black)](https://shashank-portfolio-black.vercel.app/)
-
-<br/>
-
-```
-❯ Always open to discussing system architecture
-  and modern software engineering practices.
-```
-
-<img src="https://komarev.com/ghpvc/?username=shashanklko&label=Profile+Views&color=00f0ff&style=for-the-badge" alt="Visitor Count" />
-
-</div>
-
----
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashanklko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F0FF&hide_rank=true" alt="GitHub Stats" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashanklko&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+  
+  <br/><br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=shashanklko&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
+<br/>
 
-```
-╔══════════════════════════════════════════════════╗
-║   ❯ © 2025 Shashank Kumar — Architecting Tomorrow ║
-╚══════════════════════════════════════════════════╝
-```
+<h2 align="center">⚡ Recent Engineering Highlights</h2>
 
+<table width="100%" border="0">
+  <tr>
+    </td>
+<td width="50%" align="center">
+  <h3>⚖️ <a href="https://github.com/Shashanklko/LawEZY">LawEZY Platform</a></h3>
+  <p><i>Legal & Financial Services Ecosystem</i></p>
+  <div align="left">
+    <ul>
+      <li><b>Tech:</b> React, Spring Boot, Node.js, MySQL, Socket.io</li>
+      <li><b>Scope:</b> Built a full-scale platform connecting clients with verified legal and financial professionals. Implemented real-time messaging, token-based transactions, and a structured appointment lifecycle for seamless consultation and monetization.</li>
+    </ul>
+  </div>
+</td>
+    <td width="50%" align="center">
+      <h3>🤖 <a href="https://Resumehub.store">Resumehub.store</a></h3>
+      <p><i>Intelligent Document Generation</i></p>
+      <div align="left">
+        <ul>
+          <li><b>Tech:</b> Python, API Architecture, Render</li>
+          <li><b>Scope:</b> Architected an intelligent bot for dynamic resume generation. Deployed utilizing CI/CD pipelines.</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<div align="center">
+  <p>Always open to discussing system architecture or modern software engineering practices!</p>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shashankkm2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/shashank20003">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/shashanklko">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=shashanklko&label=Visitors&color=gold&style=for-the-badge" alt="Visitor Count" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>

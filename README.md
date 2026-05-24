@@ -17,13 +17,10 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://shashank-portfolio-black.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-808080?style=for-the-badge&logo=vercel&logoColor=black" alt="Website" />
   </a>
-  
-  <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=shashanklko&label=Profile+Views&color=00f0ff&style=for-the-badge" alt="Visitor Count" />
 </div>
+<br/>
 ---
 
 <table align="center" border="0" style="border: none !important; width: 100%;">

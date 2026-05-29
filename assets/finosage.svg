@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" width="100%" height="100%">
+  <defs>
+    <!-- Premium Glow Filters -->
+    <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#00e5ff" flood-opacity="0.7"/>
+    </filter>
+
+    <filter id="glow-purple" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#8b5cf6" flood-opacity="0.7"/>
+    </filter>
+
+    <linearGradient id="panelGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071018"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes pulse {
+      0%,100% { opacity: 0.45; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.4); }
+    }
+
+    @keyframes scan {
+      0% { transform: translateY(0px); opacity: 0.15; }
+      50% { transform: translateY(185px); opacity: 0.9; }
+      100% { transform: translateY(0px); opacity: 0.15; }
+    }
+
+    @keyframes glow {
+      0%,100% { opacity: 0.8; }
+      50% { opacity: 1; }
+    }
+
+    .card {
+      fill: url(#panelGradient);
+      stroke: #1e293b;
+      stroke-width: 1.5;
+      transition: all 0.3s ease;
+    }
+
+    .wrapper:hover .card {
+      stroke: #00e5ff;
+      filter: url(#glow-cyan);
+    }
+
+    .topbar {
+      fill: rgba(15,23,42,0.75);
+      backdrop-filter: blur(8px);
+    }
+
+    .title {
+      font-family: 'Inter', sans-serif;
+      font-size: 28px;
+      font-weight: 800;
+      fill: #f8fafc;
+      letter-spacing: 1px;
+    }
+
+    .tagline {
+      font-family: 'Inter', sans-serif;
+      font-size: 13px;
+      fill: #94a3b8;
+    }
+
+    .section-title {
+      font-family: 'Inter', sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      fill: #00e5ff;
+      letter-spacing: 1px;
+    }
+
+    .body-text {
+      font-family: 'Inter', sans-serif;
+      font-size: 11px;
+      fill: #cbd5e1;
+    }
+
+    .mini-text {
+      font-family: 'Fira Code', monospace;
+      font-size: 10px;
+      fill: #8b5cf6;
+      font-weight: 700;
+    }
+
+    .status {
+      font-family: 'Fira Code', monospace;
+      font-size: 10px;
+      fill: #22c55e;
+      font-weight: bold;
+    }
+
+    .badge {
+      fill: #111827;
+      stroke: #1f2937;
+      stroke-width: 1;
+      rx: 4px;
+    }
+
+    .badge-text {
+      font-family: 'Fira Code', monospace;
+      font-size: 9px;
+      fill: #00e5ff;
+      font-weight: 700;
+    }
+
+    .pulse-ring {
+      animation: pulse 2.5s infinite ease-in-out;
+      transform-origin: center;
+    }
+
+    .scan-line {
+      animation: scan 5s infinite ease-in-out;
+    }
+
+    .launch {
+      font-family: 'Fira Code', monospace;
+      font-size: 11px;
+      fill: #e2e8f0;
+      animation: glow 2s infinite ease-in-out;
+    }
+  </style>
+
+  <g class="wrapper">
+    <!-- Main Card -->
+    <rect x="5" y="5" width="410" height="310" rx="16" class="card"/>
+
+    <!-- Top Bar -->
+    <rect x="6" y="6" width="408" height="42" rx="15" class="topbar"/>
+    <line x1="10" y1="48" x2="410" y2="48" stroke="url(#accentLine)" stroke-width="1" opacity="0.4"/>
+
+    <!-- Live Indicator -->
+    <circle cx="24" cy="27" r="7" fill="none" stroke="#22c55e" stroke-width="1.2" class="pulse-ring"/>
+    <circle cx="24" cy="27" r="3" fill="#22c55e"/>
+
+    <text x="38" y="31" class="status">LIVE_QUANT_ENGINE</text>
+
+    <text x="392" y="30" text-anchor="end" class="mini-text">FINOSAGE_V1</text>
+
+    <!-- Scan Line -->
+    <line x1="18" y1="60" x2="398" y2="60" stroke="#00e5ff" stroke-width="1.4" opacity="0.8" class="scan-line" filter="url(#glow-purple)"/>
+
+    <!-- Logo Area -->
+    <g transform="translate(20,72)">
+      <circle cx="18" cy="18" r="18" fill="#0f172a" stroke="#00e5ff" stroke-width="1.5"/>
+      <path d="M10 24 L18 10 L26 24" fill="none" stroke="#00e5ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="14" y1="20" x2="22" y2="20" stroke="#8b5cf6" stroke-width="2"/>
+    </g>
+
+    <!-- Main Title -->
+    <text x="70" y="98" class="title">FINOSAGE</text>
+    <text x="70" y="118" class="tagline">Institutional-Grade Financial Intelligence for Everyone</text>
+
+    <!-- Deployment Status -->
+    <text x="20" y="145" class="section-title">LIVE INFRASTRUCTURE</text>
+    <text x="20" y="162" class="body-text">• Live Frontend · Live API · API Docs</text>
+    <text x="20" y="178" class="body-text">• 10,000 Monte Carlo realities processed per second</text>
+    <text x="20" y="194" class="body-text">• Regime-Switching intelligence for volatile markets</text>
+
+    <!-- Quant Engines -->
+    <text x="20" y="220" class="section-title">QUANTITATIVE ENGINES</text>
+
+    <text x="20" y="238" class="body-text">01. Retirement Wealth Engine → Markov Regime-Switching Monte Carlo</text>
+    <text x="20" y="254" class="body-text">02. Portfolio Strategy Lab → Efficient Frontier Optimization</text>
+    <text x="20" y="270" class="body-text">03. Tactical Goal Planner → Inflation-indexed probability analysis</text>
+    <text x="20" y="286" class="body-text">04. Withdrawal Strategy Lab → Sustainable decumulation analytics</text>
+
+    <!-- Tech Stack Badges -->
+    <g transform="translate(20,296)">
+      <g>
+        <rect width="52" height="18" class="badge"/>
+        <text x="26" y="12" text-anchor="middle" class="badge-text">React</text>
+      </g>
+
+      <g transform="translate(58,0)">
+        <rect width="60" height="18" class="badge"/>
+        <text x="30" y="12" text-anchor="middle" class="badge-text">FastAPI</text>
+      </g>
+
+      <g transform="translate(124,0)">
+        <rect width="56" height="18" class="badge"/>
+        <text x="28" y="12" text-anchor="middle" class="badge-text">NumPy</text>
+      </g>
+
+      <g transform="translate(186,0)">
+        <rect width="52" height="18" class="badge"/>
+        <text x="26" y="12" text-anchor="middle" class="badge-text">SciPy</text>
+      </g>
+
+      <g transform="translate(244,0)">
+        <rect width="64" height="18" class="badge"/>
+        <text x="32" y="12" text-anchor="middle" class="badge-text">MongoDB</text>
+      </g>
+    </g>
+
+    <!-- CTA -->
+    <text x="394" y="302" text-anchor="end" class="launch">[OPEN_FINOSAGE] ↗</text>
+  </g>
+</svg>

@@ -87,6 +87,12 @@
       </a>
       <p><b>ResumeHub</b> - Professional Resume Builder</p>
     </td>
+     <td width="48%" align="center" style="border: none; padding: 10px;">
+      <a href="https:/finosage.online" target="_blank" title="Launch Finosage.online">
+        <img src="./assets/finosage.svg" width="100%" alt="Finosage Console" />
+      </a>
+      <p><b>ResumeHub</b> - Professional Resume Builder</p>
+    </td>
   </tr>
 </table>
 

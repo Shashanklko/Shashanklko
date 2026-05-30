@@ -90,7 +90,7 @@
   </tr>
   <tr>
       <td width="48%" align="center" style="border: none; padding: 10px;">
-      <a href="https:/finosage.online" target="_blank" title="Launch Finosage.online">
+      <a href="https://finosage.online" target="_blank" title="Launch Finosage.online">
         <img src="./assets/finosage.svg" width="100%" alt="Finosage Console" />
       </a>
       <p><b>Finosage</b> - Wealth Management Guider</p>

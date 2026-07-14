@@ -80,7 +80,8 @@
 | Project | Description | Tech Stack | Link |
 |---------|-------------|-----------|------|
 | **LawEZY** | Legal Tech Platform for streamlined legal document management and consultation | React, SpringBoot, MySQL ,  | [Visit](https://lawezy.in) |
-| **ResumeHub** | Professional Resume Builder with AI-powered suggestions and templates | Next.js, TypeScript, PostgreSQL, Razorpay | [Visit](https://Resumehub.store) |
+| **Eduvera** | Student Migration and acdameic Tracking System | React.js, Node.js, MySQL| [Github](https://github.com/Shashanklko/Student-Migration-portal) |
+| **ResumeHub** | Professional Resume Builder with AI-powered suggestions and templates | React.js, TypeScript, PostgreSQL, Razorpay | [Visit](https://Resumehub.store) |
 | **Finosage** | Wealth Management Guidance Platform with financial analytics | React, Python, FastAPI, Redis | [Visit](https://finosage.online) |
 
 ### 💼 Freelance Projects

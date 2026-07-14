@@ -79,17 +79,17 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|-----------|------|
-| **LawEZY** | Legal Tech Platform for streamlined legal document management and consultation | React, SpringBoot, MySQL ,  | [Visit](https://lawezy.in) |
-| **Eduvera** | Student Migration and acdameic Tracking System | React.js, Node.js, MySQL| [Github](https://github.com/Shashanklko/Student-Migration-portal) |
-| **ResumeHub** | Professional Resume Builder with AI-powered suggestions and templates | React.js, TypeScript, PostgreSQL, Razorpay | [Visit](https://Resumehub.store) |
+| **LawEZY** | Legal Tech Platform for streamlined legal document management and consultation | React, SpringBoot, MySQL , MongoDb | [Visit](https://lawezy.in) |
+| **Eduvera** | Student Migration and acdameic Tracking System | React.js, Node.js, TailwindCss MySQL| [Github](https://github.com/Shashanklko/Student-Migration-portal) |
+| **ResumeHub** | Professional Resume Builder with AI-powered suggestions and templates | React.js, Flask , telegram bot, CSS | [Visit](https://Resumehub.store) |
 | **Finosage** | Wealth Management Guidance Platform with financial analytics | React, Python, FastAPI, Redis | [Visit](https://finosage.online) |
 
 ### 💼 Freelance Projects
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| **Strok Financial** | Financial services platform with real-time analytics and portfolio management | React, Node.js, PostgreSQL, Chart.js | [Visit](https://strokFinancial.com) |
-| **YouthX Bharat** | Youth empowerment platform connecting mentors with aspiring professionals | React.js, Javascript, CSS |[Visit](https://youthxbharat.com) |
+| **Strok Financial** | Financial services platform with real-time analytics and portfolio management | React, Node.js, TailwindCss , Framer Motion | [Visit](https://strokFinancial.com) |
+| **YouthX Bharat** | Youth empowerment platform connecting mentors with aspiring professionals | React.js, Javascript, CSS , GSAP , Framer Motion |[Visit](https://youthxbharat.com) |
 
 </div>
 

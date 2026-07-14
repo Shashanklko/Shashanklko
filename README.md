@@ -88,7 +88,7 @@
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
 | **Strok Financial** | Financial services platform with real-time analytics and portfolio management | React, Node.js, PostgreSQL, Chart.js | [Visit](https://strokFinancial.com) |
-| **YouthX Bharat** | Youth empowerment platform connecting mentors with aspiring professionals | Next.js, Firebase, Tailwind CSS |[Visit](https://youthxbharat.com) |
+| **YouthX Bharat** | Youth empowerment platform connecting mentors with aspiring professionals | React.js, Javascript, CSS |[Visit](https://youthxbharat.com) |
 
 </div>
 

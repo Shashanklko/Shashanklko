@@ -79,16 +79,16 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|-----------|------|
-| **LawEZY** | Legal Tech Platform for streamlined legal document management and consultation | React, Node.js, MongoDB, AWS | [GitHub](https://github.com/Shashanklko/LawEZY) |
-| **ResumeHub** | Professional Resume Builder with AI-powered suggestions and templates | Next.js, TypeScript, PostgreSQL, Stripe | [Visit](https://Resumehub.store) |
+| **LawEZY** | Legal Tech Platform for streamlined legal document management and consultation | React, SpringBoot, MySQL ,  | [Visit](https://lawezy.in) |
+| **ResumeHub** | Professional Resume Builder with AI-powered suggestions and templates | Next.js, TypeScript, PostgreSQL, Razorpay | [Visit](https://Resumehub.store) |
 | **Finosage** | Wealth Management Guidance Platform with financial analytics | React, Python, FastAPI, Redis | [Visit](https://finosage.online) |
 
 ### 💼 Freelance Projects
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|-----------|--------|
-| **Strok Financial** | Financial services platform with real-time analytics and portfolio management | React, Node.js, PostgreSQL, Chart.js | ✅ Completed |
-| **YouthX Bharat** | Youth empowerment platform connecting mentors with aspiring professionals | Next.js, Firebase, Tailwind CSS | ✅ Completed |
+| **Strok Financial** | Financial services platform with real-time analytics and portfolio management | React, Node.js, PostgreSQL, Chart.js | [Visit](https://strokFinancial.com) |
+| **YouthX Bharat** | Youth empowerment platform connecting mentors with aspiring professionals | Next.js, Firebase, Tailwind CSS |[Visit](https://youthxbharat.com) |
 
 </div>
 

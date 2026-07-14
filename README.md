@@ -73,30 +73,24 @@
 
 ## ⚡ Featured Projects
 
-<table align="center" border="0" style="border: none !important; width: 100%;">
-  <tr>
-    <td width="48%" align="center" style="border: none; padding: 10px;">
-      <a href="https://github.com/Shashanklko/LawEZY" target="_blank" title="Launch LawEZY Platform">
-        <img src="./assets/lawezy.svg" width="100%" alt="LawEZY Platform Console" />
-      </a>
-      <p><b>LawEZY</b> - Legal Tech Platform</p>
-    </td>
-    <td width="48%" align="center" style="border: none; padding: 10px;">
-      <a href="https://Resumehub.store" target="_blank" title="Launch Resumehub.store">
-        <img src="./assets/resumehub.svg" width="100%" alt="Resumehub.store Console" />
-      </a>
-      <p><b>ResumeHub</b> - Professional Resume Builder</p>
-    </td>
-  </tr>
-  <tr>
-      <td width="48%" align="center" style="border: none; padding: 10px;">
-      <a href="https://finosage.online" target="_blank" title="Launch Finosage.online">
-        <img src="./assets/finosage.svg" width="100%" alt="Finosage Console" />
-      </a>
-      <p><b>Finosage</b> - Wealth Management Guider</p>
-    </td>
-  </tr>  
-</table>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 30px;">
+
+### 🏢 Production Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| **LawEZY** | Legal Tech Platform for streamlined legal document management and consultation | React, Node.js, MongoDB, AWS | [GitHub](https://github.com/Shashanklko/LawEZY) |
+| **ResumeHub** | Professional Resume Builder with AI-powered suggestions and templates | Next.js, TypeScript, PostgreSQL, Stripe | [Visit](https://Resumehub.store) |
+| **Finosage** | Wealth Management Guidance Platform with financial analytics | React, Python, FastAPI, Redis | [Visit](https://finosage.online) |
+
+### 💼 Freelance Projects
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|-----------|--------|
+| **Strok Financial** | Financial services platform with real-time analytics and portfolio management | React, Node.js, PostgreSQL, Chart.js | ✅ Completed |
+| **YouthX Bharat** | Youth empowerment platform connecting mentors with aspiring professionals | Next.js, Firebase, Tailwind CSS | ✅ Completed |
+
+</div>
 
 <br/>
 
